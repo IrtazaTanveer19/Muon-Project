@@ -1,8 +1,6 @@
-# PHY539 Project
-
 A Github repository containing my course project for PHY539 (Introduction to Quantum Field Theory).
 
-This project involved the study of Quantum Electrodynamics alongside the associated Feynmann diagrams in order to caclulate the muon g-2 factor.
+This project involved the study of Quantum Electrodynamics alongside the associated Feynmann diagrams in order to caclulate the muon $g-2$ factor.
 
 The PDF file titled "QFT Project Report" is the final report that was submitted.
 
